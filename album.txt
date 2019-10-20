@@ -1,0 +1,29 @@
+3
+Parallel Lines
+Wha
+4
+3
+Hanging On The Telephone
+sounds/Parallel_Lines/Blondie-Hanging_On_The_Telephone.mp3
+One Way Or Another
+sounds/Parallel_Lines/Blondie-One_Way_Or_Another.mp3
+Picture This
+sounds/Parallel_Lines/Blondie-Picture_This.mp3
+Fever Ray
+Fever Ray
+1
+2
+If I Had A Heart
+sounds/Fever_Ray/Fever_Ray-If_I_Had_A_Heart.mp3
+When I Grow Up
+sounds/Fever_Ray/Fever_Ray-When_I_Grow_Up.mp3
+Nick Cave & The bad Seeds
+The Good Son
+4
+3
+The_Good_Son
+sounds/The_Good_Son/Nick_Cave_&_The_Bad_Seeds-The_Good_Son.mp3
+The_Weeping_Song
+sounds/The_Good_Son/Nick_Cave_&_The_Bad_Seeds-The_Weeping_Song.mp3
+The_Ship_Song
+sounds/The_Good_Son/Nick_Cave_&_The_Bad_Seeds-The_Ship_Song.mp3
